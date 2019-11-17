@@ -6,7 +6,6 @@ import com.sda.database.impl.User;
 import com.sda.form.api.IForm;
 import com.sda.form.impl.Form;
 
-
 public class Main {
 
     public static void main(String[] args) {
